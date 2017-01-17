@@ -1,4 +1,6 @@
 def fizz_buzz(number):
+  if number<3:
+    return "Invalid"
   if (number%3==0 and number%5==0):
     return "FizzBuzz"
   elif number % 3==0:
@@ -7,5 +9,4 @@ def fizz_buzz(number):
     return "Buzz"
   else:
     return number
-print fizz_buzz(6)
-  
+print fizz_buzz(2)
