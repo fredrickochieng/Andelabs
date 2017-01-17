@@ -1,5 +1,5 @@
 def data_type(n):
-	if type(n) == None:
+	if n == None:
 		return 'no value'
 	if type(n) == str:
 		return len(n)

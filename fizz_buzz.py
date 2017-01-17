@@ -9,4 +9,4 @@ def fizz_buzz(number):
     return "Buzz"
   else:
     return number
-print fizz_buzz(2)
+
