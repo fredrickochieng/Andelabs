@@ -13,7 +13,8 @@ def fizz_buzz(number):
     return "Buzz"
   else:
     return number
-    ```
+  
+  ```
     
  This is a simple function that takes a number as an input.The number should be dvisible by 3,5 or both .In each case,it returns the strings "Fizz","Buzz" and "FizzBuzz" if the number is divisible by 3,5 or both respectively.
  
