@@ -45,4 +45,15 @@ def fizz_buzz(number):
   
   The data_type function takes any type of data.It then checks if the data type is a string ,integer or boolean.For instance ,the function checks if the data type is a string and returns the length of that string i.e `elif type(n) == str:
 		return len(n)` as shown in the code above .It returns various outputs for other data types e.g integer,booleans and list.For a list it returns the value of index 2 if the the length of the list is greater than 2 and none if the legth of the list is less than 3
+		
+		
+		CAR CLASS
+		
+You are to create a Car class that can be used to instantiate various vehicles.
+
+It takes in arguments that depict the type, model, and name of the vehicle, provided they are set.
+
+CODE
+
+
 
